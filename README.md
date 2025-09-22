@@ -15,3 +15,6 @@ Project description.
 <!-- Update 29 -->
 
 <!-- Update 33 -->
+
+## Update 37
+- Improvement made on 2025-09-23
