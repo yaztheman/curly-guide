@@ -6,3 +6,7 @@ def test_january_4():
 def test_january_14():
     """Test new year features."""
     assert True
+
+def test_january_9():
+    """Test new year features."""
+    assert True
